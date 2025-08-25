@@ -49,7 +49,7 @@ Structura proiectului:
 Instalare si rulare:
 
 Cloneaza proiectul:
--git clone https://github.com/username/monitorizare_pacienti.git
+-git clone https://github.com/Robertvsc/Patient-Monitoring.git
 -cd monitorizare_pacienti
 
 Creeaza un mediu virtual si instaleaza dependintele:
